@@ -6,25 +6,112 @@
      "VerUrl":"aHR0cHM6Ly93d2UubGFuem91aS5jb20vYjAxbnFjNGdk",
      "AppNewUrl":"",
      "VerInfo":"1. 修正因阿里云盘官网升级导致的无法使用<br/>2. 优化访问频次问题<br/>3. 修正违禁视频详情BUG",
-     "SSList":[
-         {"title":"知识船舱","url":"aHR0cDovL3pzY2MueXNlcGFuLmNvbS8*","tip":"推荐"},
-         {"title":"小纸条","url":"aHR0cHM6Ly91LmdpdGNhZmUubmV0Lw**","tip":"推荐"},
-         {"title":"UP云搜","url":"aHR0cHM6Ly93d3cudXB5dW5zby5jb20v","tip":"推荐"},
-         {"title":"云上资源","url":"aHR0cDovL3JqZHEuaHVvZmguY2x1Yi8*","tip":"推荐"},
-         {"title":"pan666","url":"aHR0cHM6Ly9wYW42NjYuY24v","tip":"推荐"},
-         {"title":"霸王龙压制组","url":"aHR0cHM6Ly90LXJleC50emZpbGUuY29tLw**","tip":"推荐"},
-         {"title":"喵狸盘搜","url":"aHR0cHM6Ly93d3cuYWxpcGFuc291LmNvbS8*","tip":"推荐"},
-         {"title":"yunpan1","url":"aHR0cHM6Ly95dW5wYW4xLmNvbS8*","tip":"推荐"},
-         {"title":"万人迷8导航","url":"aHR0cDovL3d3dy53YW5yZW5taTguY29tLw**","tip":"推荐"},
-         {"title":"爱盼小站 [登录可见]","url":"aHR0cHM6Ly9wYW4udW5pbGVpLmNuLw**","tip":"推荐"},     
-         {"title":"三角体 [登录可见]","url":"aHR0cHM6Ly93d3cub29kLm9uZS8*","tip":"推荐"},     
-         {"title":"盘友社区 [登录可见]","url":"aHR0cHM6Ly93d3cucGFueW91YmJzLmNvbS8*","tip":"推荐"},   
-         {"title":"奈斯搜索 [登录可见]","url":"aHR0cHM6Ly93d3cubmljZXNvLmZ1bi8*","tip":"推荐"},
-         {"title":"大盘搜 [回复可见]","url":"aHR0cHM6Ly9hbGl5dW5zby5jbi8*","tip":"推荐"},
-         {"title":"drivebbs [回复可见]","url":"aHR0cHM6Ly9kcml2ZWJicy5jb20v","tip":"推荐"},
-         {"title":"云盘资源网 [回复可见]","url":"aHR0cHM6Ly93d3cueXVucGFueml5dWFuLmNvbS8*","tip":"推荐"},
-         {"title":"云盘资源论坛","url":"aHR0cHM6Ly9hbGl5dW5wYW5iYnMuY29tLw**","tip":"推荐"},
-         {"title":"网盘小站 [邀请注册]","url":"aHR0cHM6Ly93cHh6Lm9yZy8*","tip":"推荐"},
-         {"title":"阿里盘盘 [10元邀请码]","url":"aHR0cHM6Ly93d3cucGFucGFuci5jb20v","tip":"推荐"}
-     ]
+     "HELP": "", 
+     "SSList": [
+        {
+            "title": "资源分享1[在线文档]",
+            "url": "aHR0cHM6Ly9kb2NzLnFxLmNvbS9kb2MvRFJIaElVa0ZxZVdoR1ltcFQ*",
+            "tip": "推荐"
+        },
+        {
+            "title": "资源分享2[在线文档]",
+            "url": "aHR0cHM6Ly9kb2NzLnFxLmNvbS9zaGVldC9EVlhwNVEyZFJUVlJYYjJWUw**",
+            "tip": "推荐"
+        },
+        {
+            "title": "云盘搜索 [搜索引擎]",
+            "url": "aHR0cHM6Ly9wYW4uanVzdGluM2dvLmNvbS8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "小纸条[搜索引擎]",
+            "url": "aHR0cHM6Ly9hbGkuZ2l0Y2FmZS5pbms*",
+            "tip": "推荐"
+        },
+        {
+            "title": "UP云搜[搜索引擎]",
+            "url": "aHR0cHM6Ly93d3cudXB5dW5zby5jb20v",
+            "tip": "推荐"
+        },
+        {
+            "title": "易搜[搜索引擎]",
+            "url": "aHR0cHM6Ly95aXNvLmZ1bi8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "盘搜[搜索引擎]",
+            "url": "aHR0cHM6Ly93d3cucGFuc2VhcmNoLm1l",
+            "tip": "推荐"
+        },
+        {
+            "title": "YaPan[搜索引擎]",
+            "url": "aHR0cHM6Ly9wYW4uY2NvZi5jYy8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "千帆搜索[搜索引擎]",
+            "url": "aHR0cHM6Ly9wYW4ucWlhbmZhbi5hcHAv",
+            "tip": "推荐"
+        },
+        {
+            "title": "喵狸盘搜[搜索引擎]",
+            "url": "aHR0cHM6Ly93d3cuYWxpcGFuc291LmNvbS8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "搜索聚合[搜索引擎]",
+            "url": "aHR0cHM6Ly9pdWkuc3UvMzcwMA**",
+            "tip": "推荐"
+        },
+        {
+            "title": "影视网站[视频网站]",
+            "url": "aHR0cHM6Ly9pdWkuc3UvNTMxLw**",
+            "tip": "推荐"
+        },
+        {
+            "title": "万人迷吧[云盘导航]",
+            "url": "aHR0cDovL3d3dy53YW5yZW5taTguY29tLw**",
+            "tip": "推荐"
+        },
+        {
+            "title": "云上资源[资源论坛]",
+            "url": "aHR0cDovL3JqZHEuaHVvZmguY2x1Yi8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "我的小站[资源论坛]",
+            "url": "aHR0cHM6Ly9wYW42NjYubmV0Lw**",
+            "tip": "推荐"
+        },
+        {
+            "title": "云盘社区[资源论坛]",
+            "url": "aHR0cHM6Ly95dW5wYW4xLmNvbS8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "盘友社区 [登录可见]",
+            "url": "aHR0cHM6Ly93d3cucGFueW91YmJzLmNvbS8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "奈斯搜索 [登录可见]",
+            "url": "aHR0cHM6Ly93d3cubmljZXNvLmZ1bi8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "云盘资源 [回复可见]",
+            "url": "aHR0cHM6Ly93d3cueXVucGFueml5dWFuLmNvbS8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "网盘小站 [邀请注册]",
+            "url": "aHR0cHM6Ly93cHh6Lm9yZy8*",
+            "tip": "推荐"
+        },
+        {
+            "title": "阿里盘盘 [10元邀请码]",
+            "url": "aHR0cHM6Ly93d3cucGFucGFuci5jb20v",
+            "tip": "推荐"
+        }
+    ]
 }
